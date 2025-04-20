@@ -56,7 +56,7 @@ After training, the agent’s path can be visualized on the maze grid, highlight
 ---
 
 
-## 📷 Solves Mazes by model
+## 📷 Solved Mazes by model
 
 
 ![Screenshot 1](maze1.png)  
